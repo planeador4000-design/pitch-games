@@ -5,9 +5,16 @@
       "repo": "planeador4000-design/islandy",
       "title": "ISLANDY",
       "description": "Un juego multijugador en el que un Calamar Gigante ha destruido tu pequeño barquito. Tu mision, arreglarlo para ir a por el Calamar a Vengarte",
-      "tags": ["Multijugador", "Plataformas", "Chill"],
-      "channel": "prerelease"
+      "tags": [
+        "Multijugador",
+        "Plataformas",
+        "Chill"
+      ],
+      "channel": "prerelease",
+      "author": "",
+      "cover": "",
+      "banner": "",
+      "featured": true
     }
-    
   ]
 }
