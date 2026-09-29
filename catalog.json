@@ -15,6 +15,20 @@
       "cover": "",
       "banner": "https://www.image2url.com/r2/default/images/1790628185863-f768b85b-37ac-40b2-8ebc-e8cb6ba0433b.png",
       "featured": true
+    },
+    {
+      "repo": "planeador4000-design/steal-a-67",
+      "title": "Steal a 67",
+      "author": "Roud4000",
+      "description": "Un juego IDLE en el que tendras que comprar \"BRAINROTS\", para ganar DINERO",
+      "tags": [
+        "IDLE",
+        "ONLINE"
+      ],
+      "cover": "https://www.image2url.com/r2/default/images/1790661689863-9638dca8-5c81-43b9-8be6-3911deee8f51.png",
+      "banner": "",
+      "featured": true,
+      "channel": "stable"
     }
   ]
 }
